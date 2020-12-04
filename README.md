@@ -1,8 +1,8 @@
-# Angular-Resize-Element
+# Angular-Move-Element
 
 An angular 4.0+ directive that allows an element to be moved
 
-[![npm version](https://badge.fury.io/js/angular-move-element.svg)](http://badge.fury.io/js/angular-move-element)
+[![npm version](https://badge.fury.io/js/ng-move-element.svg)](http://badge.fury.io/js/ng-move-element)
 [![GitHub issues](https://img.shields.io/github/issues/MichaelKravchuk/angular-move-element.svg)](https://github.com/MichaelKravchuk/angular-move-element/issues)
 [![GitHub stars](https://img.shields.io/github/stars/MichaelKravchuk/angular-move-element.svg)](https://github.com/MichaelKravchuk/angular-move-element/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MichaelKravchuk/angular-move-element/master/LICENSE)
@@ -13,17 +13,17 @@ https://michaelkravchuk.github.io/angular-libs
 
 ## Usage
 
-**Step 1:** Install angular-move-element
+**Step 1:** Install ng-move-element
 
 ```sh
-npm install angular-move-element --save
+npm install ng-move-element --save
 ```
 
 **Step 2:** Import angular move element module into your app module
 
 ```ts
 ...
-import { AngularMoveElementModule } from 'angular-move-element';
+import { AngularMoveElementModule } from 'ng-move-element';
 
 ...
 
