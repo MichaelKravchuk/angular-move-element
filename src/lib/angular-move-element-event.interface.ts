@@ -10,3 +10,10 @@ export interface AngularMoveElementEvent {
 
     originalEvent: MouseEvent;
 }
+
+export interface Position {
+    top: number;
+    width: number;
+    height: number;
+    left: number;
+}
